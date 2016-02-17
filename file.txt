@@ -1,1 +1,2 @@
 this is a file
+Jake doesn't know how to use git
